@@ -1,0 +1,17 @@
+{
+  "seed": 2023,
+  "teleportation_states": 100,
+  "branches_checked": 400,
+  "minimum_teleportation_fidelity": 0.9999999999999996,
+  "ideal_chsh_S": 2.8284271247461894,
+  "classical_bound": 2,
+  "ideal_chsh_game_win_probability": 0.8535533905932737,
+  "chsh_visibility_threshold": 0.7071067811865475,
+  "hardware_execution": false,
+  "environment": {
+    "python": "3.12.13",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  }
+}
