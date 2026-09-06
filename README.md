@@ -62,4 +62,4 @@ The project demonstrates a useful evaluation pattern: define a resource and base
 
 ## Course connection and provenance
 
-Based on summer 2023 studies of single/multiple states, quantum circuits, and entanglement protocols. Created as a new implementation in September 2026 with AI assistance. See [source mapping](SOURCES.md), [provenance](PROVENANCE.md), and [MIT license](LICENSE).
+Based on summer 2023 studies of single/multiple states, quantum circuits, and entanglement protocols. Created as a new implementation in September 2026. See [source mapping](SOURCES.md), [provenance](PROVENANCE.md), and [MIT license](LICENSE).
